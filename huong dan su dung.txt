@@ -1,0 +1,3 @@
+- Chạy lệnh: npm run serve
+- Truy cập url: http://localhost:8080/
+Lưu ý: Nếu chạy url khác vd: http://192.168.1.7:8080/  thì cần thiết lập lại url trong src\apis\Apis.js 
